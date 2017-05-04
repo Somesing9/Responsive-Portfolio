@@ -203,7 +203,7 @@ h3,
 
 .auth-image {
     float: left;
-    width: 200px;
+    width: 50%;
     height: auto;
     margin-top: 10px;
     margin-right: 25px;
@@ -292,6 +292,10 @@ input[type=submit] {
         /*max-width: 95%;*/
         float: none;
         margin: 0 auto 20px;
+    }
+
+    .auth-image {
+        width: 50%;
     }
 }
 
